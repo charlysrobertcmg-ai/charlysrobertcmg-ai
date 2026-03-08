@@ -8,7 +8,7 @@
   
   <a href="https://www.instagram.com/robertx_chr?igsh=cGFqc29pdHhqd3Rx">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
+      <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.simpleicons.org/threads/white](https://th.bing.com/th/id/R.4316179e794d83cf14fdfe6035f08f7f?rik=cMermvoTpGhjVw&pid=ImgRaw&r=0)">
       <img alt="Threads" title="instragram" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
 
 </p>****
