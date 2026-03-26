@@ -1,4 +1,10 @@
-<h1 align="center"><a href="https://peterhan.dev">Olá eu sou charlys 👋</a></h1>
+<h1 align="center"><a href="https://peterhan.dev">Olá eu sou charlys Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas (ADS). Minha base técnica começou no ensino médio técnico em Programação de Jogos Digitais, onde dei meus primeiros passos com lógica e motores gráficos.
+
+🎮 Experiência em Games: Desenvolvi uma demo de jogo 2D utilizando C# e Unity como projeto acadêmico.
+
+🚀 Foco Atual: Estudando C, HTML5, CSS3 e JavaScript para sistemas web.
+
+🛠️ Projetos em Destaque: >   - FreshGuard: Gestão de estoque de perecíveis. 👋</a></h1>
 
 <p align="center">
   <a href="https://github.com/peterthehan">
