@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://peterhan.dev">Olá eu sou charlys Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas (ADS). Minha base técnica começou no ensino médio técnico em Programação de Jogos Digitais, onde dei meus primeiros passos com lógica e motores gráficos.
+<h1 align="center"><a href="https://peterhan.dev">Olá eu sou charlys <p> </p> Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas (ADS). Minha base técnica começou no ensino médio técnico em Programação de Jogos Digitais, onde dei meus primeiros passos com lógica e motores gráficos.
 
 🎮 Experiência em Games: Desenvolvi uma demo de jogo 2D utilizando C# e Unity como projeto acadêmico.
 
